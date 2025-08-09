@@ -56,12 +56,22 @@ const minindu = {
 
 <br>
 
-<div style="display: flex; justify-content: space-between; gap: 200px" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minindu69&show_icons=true&theme=tokyonight" alt="GitHub stats" />&nbsp;&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=minindu69&theme=radical&hide_border=false" alt="Streak stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minindu69&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=minindu69&show_icons=true&theme=tokyonight" alt="GitHub stats" />&nbsp;&nbsp;
+      <img src="https://nirzak-streak-stats.vercel.app/?user=minindu69&theme=radical&hide_border=false" alt="Streak stats" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minindu69&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 <div align="center">
   <picture>

@@ -65,7 +65,7 @@ const minindu = {
       <img src="https://nirzak-streak-stats.vercel.app/?user=minindu69&theme=radical&hide_border=false" 
            alt="Streak stats" 
            height="160" 
-           style="width: auto; object-fit: contain; display: block; margin: 0 auto;" />
+           style="width: auto; object-fit: contain; display: block; margin: 40px auto;" />
 </div>&nbsp;&nbsp;
 
 <div align="center">

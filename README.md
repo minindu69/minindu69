@@ -44,9 +44,8 @@ const minindu = {
   <img src="assets/icons/tech/nodejs.svg" width="60" height="60" alt="nodejs"/> &nbsp;&nbsp;
   <img src="assets/icons/tech/java.svg" width="60" height="60" alt="java"/> &nbsp;&nbsp;
   <img src="assets/icons/tech/spring.svg" width="60" height="60" alt="spring"/> &nbsp;&nbsp;
-  <img src="assets/icons/tech/mysql.svg" width="80" height="80" alt="mysql"/>
-  <br/><br/> <!-- row gap -->
-  <img src="assets/icons/tech/mongo.svg" width="60" height="60" alt="mongo"/>
+  <img src="assets/icons/tech/mysql.svg" width="80" height="80" alt="mysql"/>&nbsp;&nbsp;
+  <img src="assets/icons/tech/mongo.svg" width="60" height="60" alt="mongo"/>&nbsp;&nbsp;
   <img src="assets/icons/tech/firebase.svg" width="60" height="60" alt="firebase"/> &nbsp;&nbsp;
   <img src="assets/icons/tech/git.svg" width="60" height="60" alt="git"/>
 </div>

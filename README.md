@@ -56,19 +56,23 @@ const minindu = {
 
 <br>
 
-<table align="center" style="border-collapse: collapse;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=minindu69&show_icons=true&theme=tokyonight" alt="GitHub stats" />&nbsp;&nbsp;
-      <img src="https://nirzak-streak-stats.vercel.app/?user=minindu69&theme=radical&hide_border=false" alt="Streak stats" />
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=minindu69&show_icons=true&theme=tokyonight" alt="GitHub stats" height="300" style="width: auto; object-fit: contain;" />
+      &nbsp;&nbsp;
+      <img src="https://nirzak-streak-stats.vercel.app/?user=minindu69&theme=radical&hide_border=false" alt="Streak stats" height="300" style="width: auto; object-fit: contain;" />
     </td>
   </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minindu69&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <tr style="border: none;">
+    <td style="border: none; padding: 0; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minindu69&layout=compact&theme=tokyonight" alt="Top Languages" height="150" style="width: auto; object-fit: contain;" />
     </td>
   </tr>
 </table>
+
+
+
 
 
 
